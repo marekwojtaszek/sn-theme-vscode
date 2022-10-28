@@ -5,8 +5,8 @@
   "area": "themes",
   "version": "1.1.0",
   "download_url": "https://github.com/marekwojtaszek/sn-theme-vscode/archive/refs/tags/v1.1.0.zip",
-  "url": "https://raw.githubusercontent.com/marekwojtaszek/sn-theme-vscode/master/dist.css",
-  "latest_url": "https://raw.githubusercontent.com/marekwojtaszek/sn-theme-vscode/master/ext.json",
+  "url": "https://marekwojtaszek.com/sn-theme-vscode/dist.css",
+  "latest_url": "https://marekwojtaszek.com/sn-theme-vscode/ext.json",
   "dock_icon": {
     "type": "circle",
     "background_color": "#252526",
