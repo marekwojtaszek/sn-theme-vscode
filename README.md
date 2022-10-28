@@ -1,12 +1,7 @@
-# vscode-theme
+# vscode-mod-theme
 
-A theme for Standard Notes inspired by the VS Code Dark theme.
+I am **not** an author of this theme.
 
-How to install:
+To see the original theme, please go to: [https://github.com/hyphone/sn-theme-vscode](https://github.com/hyphone/sn-theme-vscode).
 
-- Open the Extensions manager on the Desktop or [Web client](https://app.standardnotes.org), located in the bottom left corner.
-- Click `Import Extension`
-- Paste in: <https://laux.wtf/sn/sn-vscode-theme/ext.json>
-- Hit Enter/Return
-
-![screenshot](https://github.com/hyphone/sn-theme-vscode/raw/master/screenshot.png)
+This repo contains the minimal set of files and minor edits for my personal use.
