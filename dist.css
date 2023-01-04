@@ -146,16 +146,29 @@ input:focus {
 .CodeMirror.cm-s-default .cm-atom {
   color: var(--keyword-color); }
 
-.CodeMirror .editor-preview {
+.CodeMirror .editor-preview,
+.ContentEditable__root {
+  max-width: 1000px;
+  margin: 0 auto;
   line-height: 1.33;
+  font-size: 14px;
   font-family: var(--sn-stylekit-monospace-font); }
   .CodeMirror .editor-preview h1,
   .CodeMirror .editor-preview h2,
   .CodeMirror .editor-preview h3,
   .CodeMirror .editor-preview h4,
   .CodeMirror .editor-preview h5,
-  .CodeMirror .editor-preview h6 {
+  .CodeMirror .editor-preview h6,
+  .ContentEditable__root h1,
+  .ContentEditable__root h2,
+  .ContentEditable__root h3,
+  .ContentEditable__root h4,
+  .ContentEditable__root h5,
+  .ContentEditable__root h6 {
     color: var(--sn-stylekit-neutral-color); }
+  .ContentEditable__root hr {
+    background: var(--foreground-color);
+  }
   .CodeMirror .editor-preview ol li,
   .CodeMirror .editor-preview ul li {
     margin-bottom: 0.5em; }
