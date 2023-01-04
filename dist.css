@@ -151,7 +151,7 @@ input:focus {
   max-width: 1000px;
   margin: 0 auto;
   line-height: 1.33;
-  font-size: 14px;
+  font-size: 16px;
   font-family: var(--sn-stylekit-monospace-font); }
   .CodeMirror .editor-preview h1,
   .CodeMirror .editor-preview h2,
@@ -175,6 +175,9 @@ input:focus {
     .CodeMirror .editor-preview ol li > ul,
     .CodeMirror .editor-preview ul li > ul {
       margin: 0.5em auto 0.75em auto; }
+  
+  .Lexical__listItemChecked, .Lexical__listItemUnchecked {
+    padding-top: 4px; }
 
 @media screen and (min-width: 526px) {
   .EasyMDEContainer .CodeMirror-fullscreen {
