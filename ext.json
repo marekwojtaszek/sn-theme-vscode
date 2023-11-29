@@ -3,8 +3,8 @@
   "name": "VS Code Mod Theme",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.1.2",
-  "download_url": "https://github.com/marekwojtaszek/sn-theme-vscode/archive/refs/tags/v1.1.2.zip",
+  "version": "1.1.3",
+  "download_url": "https://github.com/marekwojtaszek/sn-theme-vscode/archive/refs/tags/v1.1.3.zip",
   "url": "https://marekwojtaszek.com/sn-theme-vscode/dist.css",
   "latest_url": "https://marekwojtaszek.com/sn-theme-vscode/ext.json",
   "dock_icon": {
